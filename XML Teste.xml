@@ -1,0 +1,1445 @@
+<Application>
+    <Page width='768' pageNumber='1' border='false'>
+        <Row pageSection='pagebody' height='1500'>
+            <Column width='759'>
+                <LABEL height='25' width='120' y='45' x='10'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='12' FACE='Verdana'>
+                                    <B>Biomicroscopia:</B>
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <HRULE height='2' lineColor='0' width='730' lineThickness='1' y='70' x='10'/>
+                <LABEL height='20' width='56' y='95' x='10'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Anexos:
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='20' width='71' y='120' x='10'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>
+                                    Conjuntiva:
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='20' width='46' y='145' x='10'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Cornea:
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='20' width='100' y='170' x='10'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Camara
+                                    Anterior:
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='20' width='72' y='195' x='10'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>
+                                    Iris/Pupila:
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='25' width='93' y='220' x='10'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>
+                                    Cristalino/LIO:
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298056' enabled='true' selected='false' toolTip='Metadado_151_1' tabIndex='1'
+                          key='Metadado_151_1' y='95' x='145'/>
+                <LABEL height='20' width='28' y='95' x='165'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OD</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298057' enabled='true' selected='false' toolTip='Metadado_151_2' tabIndex='2'
+                          key='Metadado_151_2' y='95' x='190'/>
+                <LABEL height='20' width='27' y='95' x='210'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OE</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298059' enabled='true' selected='false' toolTip='Metadado_151_3' tabIndex='4'
+                          key='Metadado_151_3' y='120' x='145'/>
+                <LABEL height='20' width='30' y='120' x='165'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OD</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298060' enabled='true' selected='false' toolTip='Metadado_151_4' tabIndex='5'
+                          key='Metadado_151_4' y='120' x='190'/>
+                <LABEL height='20' width='22' y='120' x='210'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OE</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <TEXT enabled='true' borderStyle='solid' backgroundColor='16514043' toolTip='Texto_100'
+                      useTemplateText='false' maxChars='100' width='505' tabIndex='6' fontStyle='normal' fontSize='12'
+                      restrict='^' editable='true' id='298061' fontWeight='normal' height='22' textDecoration='none'
+                      color='0' fontFamily='Verdana' key='Metadado_152_2' y='120' x='235'/>
+                <CHECKBOX id='298062' enabled='true' selected='false' toolTip='Metadado_151_5' tabIndex='7'
+                          key='Metadado_151_5' y='145' x='145'/>
+                <LABEL height='20' width='29' y='145' x='165'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OD</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298063' enabled='true' selected='false' toolTip='Metadado_151_6' tabIndex='8'
+                          key='Metadado_151_6' y='145' x='190'/>
+                <LABEL height='20' width='26' y='145' x='210'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OE</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <TEXT enabled='true' borderStyle='solid' backgroundColor='16514043' toolTip='Texto_100'
+                      useTemplateText='false' maxChars='100' width='505' tabIndex='9' fontStyle='normal' fontSize='12'
+                      restrict='^' editable='true' id='298064' fontWeight='normal' height='22' textDecoration='none'
+                      color='0' fontFamily='Verdana' key='Metadado_152_3' y='145' x='235'/>
+                <CHECKBOX id='298065' enabled='true' selected='false' toolTip='Metadado_151_7' tabIndex='10'
+                          key='Metadado_151_7' y='170' x='145'/>
+                <LABEL height='20' width='20' y='170' x='165'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OD</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298066' enabled='true' selected='false' toolTip='Metadado_151_8' tabIndex='11'
+                          key='Metadado_151_8' y='170' x='190'/>
+                <LABEL height='20' width='22' y='170' x='210'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OE</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <TEXT enabled='true' borderStyle='solid' backgroundColor='16514043' toolTip='Texto_100'
+                      useTemplateText='false' maxChars='100' width='505' tabIndex='12' fontStyle='normal' fontSize='12'
+                      restrict='^' editable='true' id='298067' fontWeight='normal' height='22' textDecoration='none'
+                      color='0' fontFamily='Verdana' key='Metadado_152_4' y='170' x='235'/>
+                <CHECKBOX id='298068' enabled='true' selected='false' toolTip='Metadado_151_9' tabIndex='13'
+                          key='Metadado_151_9' y='195' x='145'/>
+                <LABEL height='20' width='27' y='195' x='165'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OD</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298069' enabled='true' selected='false' toolTip='Metadado_151_10' tabIndex='14'
+                          key='Metadado_151_10' y='195' x='190'/>
+                <LABEL height='20' width='21' y='195' x='210'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OE</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <TEXT enabled='true' borderStyle='solid' backgroundColor='16514043' toolTip='Texto_100'
+                      useTemplateText='false' maxChars='100' width='505' tabIndex='15' fontStyle='normal' fontSize='12'
+                      restrict='^' editable='true' id='298070' fontWeight='normal' height='22' textDecoration='none'
+                      color='0' fontFamily='Verdana' key='Metadado_152_5' y='195' x='235'/>
+                <CHECKBOX id='298071' enabled='true' selected='false' toolTip='Metadado_151_11' tabIndex='16'
+                          key='Metadado_151_11' y='225' x='145'/>
+                <LABEL height='20' width='25' y='225' x='165'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OD</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298072' enabled='true' selected='false' toolTip='Metadado_151_12' tabIndex='17'
+                          key='Metadado_151_12' y='225' x='190'/>
+                <LABEL height='20' width='28' y='225' x='210'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OE</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <TEXT enabled='true' borderStyle='solid' backgroundColor='16514043' toolTip='Texto_100'
+                      useTemplateText='false' maxChars='100' width='505' tabIndex='18' fontStyle='normal' fontSize='12'
+                      restrict='^' editable='true' id='298073' fontWeight='normal' height='22' textDecoration='none'
+                      color='0' fontFamily='Verdana' key='Metadado_152_6' y='220' x='235'/>
+                <TEXT enabled='true' borderStyle='solid' backgroundColor='16514043' toolTip='Metadado_152_7'
+                      useTemplateText='false' maxChars='30' width='85' tabIndex='19' fontStyle='normal' fontSize='12'
+                      restrict='^' editable='true' id='298074' fontWeight='normal' height='22' textDecoration='none'
+                      color='0' fontFamily='Verdana' key='Metadado_152_7' y='530' x='155'/>
+                <LABEL height='20' width='120' y='530' x='15'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>BUT
+                                    (segundos):
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <TEXT enabled='true' borderStyle='solid' backgroundColor='16514043' toolTip='Metadado_152_8'
+                      useTemplateText='false' maxChars='30' width='85' tabIndex='20' fontStyle='normal' fontSize='12'
+                      restrict='^' editable='true' id='298075' fontWeight='normal' height='22' textDecoration='none'
+                      color='0' fontFamily='Verdana' key='Metadado_152_8' y='555' x='155'/>
+                <LABEL height='20' width='95' y='555' x='15'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>
+                                    Fluor/Lissamina:
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <TEXT enabled='true' borderStyle='solid' backgroundColor='16514043' toolTip='Metadado_152_9'
+                      useTemplateText='false' maxChars='30' width='85' tabIndex='21' fontStyle='normal' fontSize='12'
+                      restrict='^' editable='true' id='298076' fontWeight='normal' height='22' textDecoration='none'
+                      color='0' fontFamily='Verdana' key='Metadado_152_9' y='580' x='155'/>
+                <LABEL height='20' width='143' y='580' x='15'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Menisco
+                                    alto/medio/baixo:
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='20' width='210' y='525' x='255'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='12' FACE='Verdana'>
+                                    <B>Lente de Contato Terapeutica</B>
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298077' enabled='true' selected='false' toolTip='Metadado_151_13' tabIndex='22'
+                          key='Metadado_151_13' y='550' x='260'/>
+                <LABEL height='20' width='57' y='550' x='280'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Retirada
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298078' enabled='true' selected='false' toolTip='Metadado_151_14' tabIndex='23'
+                          key='Metadado_151_14' y='570' x='260'/>
+                <LABEL height='20' width='57' y='570' x='280'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Colocada
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298079' enabled='true' selected='false' toolTip='Metadado_151_15' tabIndex='24'
+                          key='Metadado_151_15' y='590' x='260'/>
+                <LABEL height='20' width='57' y='590' x='280'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Trocada
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='20' width='32' y='550' x='380'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OD</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='20' width='32' y='550' x='425'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OE</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='20' width='163' y='525' x='475'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='12' FACE='Verdana'>
+                                    <B>Fundo / Retinoscopia</B>
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298082' enabled='true' selected='false' toolTip='Metadado_151_16' tabIndex='27'
+                          key='Metadado_151_16' y='550' x='480'/>
+                <LABEL height='20' width='125' y='550' x='500'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Compativel
+                                    com idade
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='20' width='20' y='570' x='380'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OD</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='20' width='32' y='570' x='425'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OE</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298085' enabled='true' selected='false' toolTip='Metadado_151_17' tabIndex='30'
+                          key='Metadado_151_17' y='570' x='480'/>
+                <LABEL height='20' width='116' y='570' x='500'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Alterac?es
+                                    maculares
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298088' enabled='true' selected='false' toolTip='Metadado_151_18' tabIndex='33'
+                          key='Metadado_151_18' y='590' x='480'/>
+                <LABEL height='20' width='145' y='590' x='500'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Alterac?es
+                                    no nervo optico
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298089' enabled='true' selected='false' toolTip='Metadado_151_19' tabIndex='35'
+                          key='Metadado_151_19' y='610' x='480'/>
+                <LABEL height='20' width='151' y='610' x='500'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Compativel
+                                    com alta miopia
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='20' width='20' y='550' x='665'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OD</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='20' width='19' y='550' x='710'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OE</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='20' width='26' y='570' x='665'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OD</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='20' width='19' y='570' x='710'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OE</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='20' width='20' y='590' x='665'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OD</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='20' width='23' y='610' x='665'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OD</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='20' width='21' y='590' x='710'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OE</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='20' width='21' y='610' x='710'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OE</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='25' width='89' y='645' x='15'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='12' FACE='Verdana'>
+                                    <B>Tonometria</B>
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='25' width='35.75' y='690' x='20'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Hora:
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <TEXT enabled='true' borderStyle='solid' backgroundColor='16514043' toolTip='Metadado_152_11'
+                      useTemplateText='false' maxChars='30' width='250' tabIndex='44' fontStyle='normal' fontSize='12'
+                      restrict='^' editable='true' id='298098' fontWeight='normal' height='22' textDecoration='none'
+                      color='0' fontFamily='Verdana' key='Metadado_152_11' y='680' x='465'/>
+                <TEXT enabled='true' borderStyle='solid' backgroundColor='16514043' toolTip='Metadado_152_12'
+                      useTemplateText='false' maxChars='30' width='250' tabIndex='45' fontStyle='normal' fontSize='12'
+                      restrict='^' editable='true' id='298099' fontWeight='normal' height='22' textDecoration='none'
+                      color='0' fontFamily='Verdana' key='Metadado_152_12' y='705' x='465'/>
+                <TEXT enabled='true' borderStyle='solid' backgroundColor='16514043' toolTip='Metadado_155_1'
+                      useTemplateText='false' maxChars='30' width='55' tabIndex='46' fontStyle='normal' fontSize='12'
+                      restrict='^' editable='true' id='298100' fontWeight='normal' height='22' textDecoration='none'
+                      color='0' fontFamily='Verdana' key='Metadado_155_1' y='690' x='55'/>
+                <TEXT enabled='true' borderStyle='solid' backgroundColor='16514043' toolTip='Metadado_152_13'
+                      useTemplateText='false' maxChars='30' width='55' tabIndex='47' fontStyle='normal' fontSize='12'
+                      restrict='^' editable='true' id='298101' fontWeight='normal' height='22' textDecoration='none'
+                      color='0' fontFamily='Verdana' key='Metadado_152_13' y='680' x='185'/>
+                <LABEL height='20' width='72' y='680' x='115'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OD
+                                    (mmHg):
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <TEXT enabled='true' borderStyle='solid' backgroundColor='16514043' toolTip='Metadado_152_14'
+                      useTemplateText='false' maxChars='30' width='55' tabIndex='48' fontStyle='normal' fontSize='12'
+                      restrict='^' editable='true' id='298102' fontWeight='normal' height='22' textDecoration='none'
+                      color='0' fontFamily='Verdana' key='Metadado_152_14' y='705' x='185'/>
+                <LABEL height='20' width='73' y='705' x='115'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OE
+                                    (mmHg):
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298103' enabled='true' selected='false' toolTip='Metadado_151_20' tabIndex='49'
+                          key='Metadado_151_20' y='680' x='265'/>
+                <LABEL height='20' width='65' y='680' x='285'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Seidel
+                                    +/-
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298104' enabled='true' selected='false' toolTip='Metadado_151_21' tabIndex='50'
+                          key='Metadado_151_21' y='705' x='265'/>
+                <LABEL height='20' width='75' y='705' x='285'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>
+                                    Drenado/Side
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='20' width='25' y='680' x='385'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OD</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='20' width='23' y='680' x='430'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OE</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='20' width='19' y='705' x='385'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OD</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='20' width='18' y='705' x='430'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OE</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298109' enabled='true' selected='false' toolTip='Metadado_151_22' tabIndex='55'
+                          key='Metadado_151_22' y='750' x='15'/>
+                <LABEL height='20' width='130' y='750' x='35'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>
+                                    Lubrificante Liquido 4x
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298110' enabled='true' selected='false' toolTip='Metadado_151_23' tabIndex='56'
+                          key='Metadado_151_23' y='770' x='15'/>
+                <LABEL height='20' width='110' y='770' x='35'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>
+                                    Lubrificante Gel 4x
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298111' enabled='true' selected='false' toolTip='Metadado_151_24' tabIndex='57'
+                          key='Metadado_151_24' y='790' x='15'/>
+                <LABEL height='20' width='135' y='790' x='35'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Restasis 1
+                                    flaconete/dia
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298112' enabled='true' selected='false' toolTip='Metadado_151_25' tabIndex='58'
+                          key='Metadado_151_25' y='810' x='15'/>
+                <LABEL height='20' width='215' y='810' x='35'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Suplementos
+                                    VO: Vit. C+Zn+M/Omega3
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298113' enabled='true' selected='false' toolTip='Metadado_151_26' tabIndex='59'
+                          key='Metadado_151_26' y='830' x='15'/>
+                <LABEL height='20' width='119' y='830' x='35'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Doxiciclina
+                                    100mg VO
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <TEXT enabled='true' borderStyle='solid' backgroundColor='16514043' toolTip='Metadado_152_15'
+                      useTemplateText='false' maxChars='30' width='30' tabIndex='60' fontStyle='normal' fontSize='12'
+                      restrict='^' editable='true' id='298114' fontWeight='normal' height='22' textDecoration='none'
+                      color='0' fontFamily='Verdana' key='Metadado_152_15' y='830' x='160'/>
+                <LABEL height='20' width='70' y='830' x='195'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>vezes ao
+                                    dia
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298115' enabled='true' selected='false' toolTip='Metadado_151_27' tabIndex='61'
+                          key='Metadado_151_27' y='855' x='15'/>
+                <LABEL height='20' width='130' y='855' x='35'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>
+                                    Azitromicina 500mg VO
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <TEXT enabled='true' borderStyle='solid' backgroundColor='16514043' toolTip='Metadado_152_16'
+                      useTemplateText='false' maxChars='30' width='30' tabIndex='63' fontStyle='normal' fontSize='12'
+                      restrict='^' editable='true' id='298116' fontWeight='normal' height='22' textDecoration='none'
+                      color='0' fontFamily='Verdana' key='Metadado_152_16' y='855' x='160'/>
+                <LABEL height='20' width='70' y='855' x='195'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>vezes ao
+                                    dia
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298117' enabled='true' selected='false' toolTip='Metadado_151_28' tabIndex='64'
+                          key='Metadado_151_28' y='880' x='15'/>
+                <LABEL height='20' width='109' y='880' x='35'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>
+                                    Antiinflamatorio VO
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298118' enabled='true' selected='false' toolTip='Metadado_151_29' tabIndex='65'
+                          key='Metadado_151_29' y='900' x='15'/>
+                <LABEL height='20' width='90' y='900' x='35'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Amostra
+                                    gratis:
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <TEXT enabled='true' borderStyle='solid' backgroundColor='16514043' toolTip='Metadado_152_17'
+                      useTemplateText='false' maxChars='30' width='145' tabIndex='66' fontStyle='normal' fontSize='12'
+                      restrict='^' editable='true' id='298119' fontWeight='normal' height='22' textDecoration='none'
+                      color='0' fontFamily='Verdana' key='Metadado_152_17' y='900' x='130'/>
+                <CHECKBOX id='298120' enabled='true' selected='false' toolTip='Metadado_151_30' tabIndex='67'
+                          key='Metadado_151_30' y='750' x='405'/>
+                <LABEL height='20' width='191' y='750' x='425'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>PFort /
+                                    Florate / Loteprol / Predmild
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298121' enabled='true' selected='false' toolTip='Metadado_151_31' tabIndex='68'
+                          key='Metadado_151_31' y='770' x='405'/>
+                <LABEL height='20' width='57' y='770' x='425'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Acular PF
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298122' enabled='true' selected='false' toolTip='Metadado_151_32' tabIndex='69'
+                          key='Metadado_151_32' y='790' x='405'/>
+                <LABEL height='20' width='95' y='790' x='425'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Zymar /
+                                    Vigamox
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298123' enabled='true' selected='false' toolTip='Metadado_151_33' tabIndex='70'
+                          key='Metadado_151_33' y='810' x='405'/>
+                <LABEL height='20' width='203' y='810' x='425'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Atropina 1%
+                                    / Ciclopegico / Mydriacyl
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298124' enabled='true' selected='false' toolTip='Metadado_151_34' tabIndex='71'
+                          key='Metadado_151_34' y='830' x='405'/>
+                <LABEL height='20' width='107' y='830' x='425'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Patanol /
+                                    Lastacaft
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <TEXT enabled='true' borderStyle='solid' backgroundColor='16514043' toolTip='Metadado_152_18'
+                      useTemplateText='false' maxChars='30' width='317' tabIndex='72' fontStyle='normal' fontSize='12'
+                      restrict='^' editable='true' id='298125' fontWeight='normal' height='22' textDecoration='none'
+                      color='0' fontFamily='Verdana' key='Metadado_152_18' y='880' x='435'/>
+                <LABEL height='20' width='40' y='880' x='395'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Outro:
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298126' enabled='true' selected='false' toolTip='Metadado_151_35' tabIndex='73'
+                          key='Metadado_151_35' y='855' x='405'/>
+                <LABEL height='20' width='160' y='855' x='425'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Mantida a
+                                    prescric?o anterior
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='19.999999999999886' width='116' y='935' x='15'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Informac?o
+                                    Adicional:
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='25' width='75' y='1085' x='10'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='12' FACE='Verdana'>
+                                    <B>Exames</B>
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298127' enabled='true' selected='false' toolTip='Metadado_151_36' tabIndex='74'
+                          key='Metadado_151_36' y='1115' x='30'/>
+                <LABEL height='20' width='75' y='1115' x='50'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>
+                                    <B>Solicitados</B>
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298128' enabled='true' selected='false' toolTip='Metadado_151_37' tabIndex='75'
+                          key='Metadado_151_37' y='1135' x='30'/>
+                <LABEL height='20' width='57' y='1135' x='50'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OCT</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298129' enabled='true' selected='false' toolTip='Metadado_151_38' tabIndex='76'
+                          key='Metadado_151_38' y='1155' x='30'/>
+                <LABEL height='20' width='57' y='1155' x='50'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Orbscan
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298130' enabled='true' selected='false' toolTip='Metadado_151_39' tabIndex='77'
+                          key='Metadado_151_39' y='1175' x='30'/>
+                <LABEL height='20' width='119' y='1175' x='50'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Microscopia
+                                    Especular
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298131' enabled='true' selected='false' toolTip='Metadado_151_40' tabIndex='78'
+                          key='Metadado_151_40' y='1195' x='30'/>
+                <LABEL height='20' width='134' y='1195' x='50'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Paquimetria
+                                    Ultrassonica
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298132' enabled='true' selected='false' toolTip='Metadado_151_41' tabIndex='79'
+                          key='Metadado_151_41' y='1215' x='30'/>
+                <LABEL height='20' width='77' y='1215' x='50'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Wave /
+                                    PPR
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298133' enabled='true' selected='false' toolTip='Metadado_151_42' tabIndex='80'
+                          key='Metadado_151_42' y='1235' x='30'/>
+                <LABEL height='20' width='81' y='1235' x='50'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Campo
+                                    Visual
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298134' enabled='true' selected='false' toolTip='Metadado_151_43' tabIndex='81'
+                          key='Metadado_151_43' y='1255' x='30'/>
+                <LABEL height='20' width='181' y='1255' x='50'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>
+                                    Sensibilidade ao Contraste / BAT
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298135' enabled='true' selected='false' toolTip='Metadado_151_44' tabIndex='82'
+                          key='Metadado_151_44' y='1275' x='30'/>
+                <LABEL height='20' width='107' y='1275' x='50'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>AV / TONC /
+                                    Dilatar
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298136' enabled='true' selected='false' toolTip='Metadado_151_45' tabIndex='83'
+                          key='Metadado_151_45' y='1295' x='30'/>
+                <LABEL height='20' width='128' y='1295' x='50'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Topo /
+                                    Orbscan / Galilei
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='20' width='80' y='1115' x='260'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>
+                                    <B>Realizados</B>
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='20' width='75' y='1135' x='260'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Wave /
+                                    PPR
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='20' width='115' y='1155' x='260'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OCT Mac /
+                                    RNFL / NO
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298140' enabled='true' selected='false' toolTip='Metadado_151_49' tabIndex='87'
+                          key='Metadado_151_49' y='1175' x='240'/>
+                <LABEL height='20' width='124' y='1175' x='260'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>CV 30-2 /
+                                    24-2 / 10-2
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298141' enabled='true' selected='false' toolTip='Metadado_151_50' tabIndex='88'
+                          key='Metadado_151_50' y='1195' x='240'/>
+                <LABEL height='20' width='96' y='1195' x='260'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>
+                                    Retinografia / AF
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298142' enabled='true' selected='false' toolTip='Metadado_151_51' tabIndex='89'
+                          key='Metadado_151_51' y='1215' x='240'/>
+                <LABEL height='20' width='119' y='1215' x='260'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>
+                                    Fotocoagulac?o
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298143' enabled='true' selected='false' toolTip='Metadado_151_52' tabIndex='90'
+                          key='Metadado_151_52' y='1255' x='240'/>
+                <LABEL height='20' width='82' y='1255' x='260'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Retirar
+                                    Pontos
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298144' enabled='true' selected='false' toolTip='Metadado_151_53' tabIndex='91'
+                          key='Metadado_151_53' y='1275' x='240'/>
+                <LABEL height='20' width='93' y='1275' x='260'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>TL Longe /
+                                    Perto
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298145' enabled='true' selected='false' toolTip='Metadado_151_54' tabIndex='92'
+                          key='Metadado_151_54' y='1295' x='240'/>
+                <LABEL height='20' width='134' y='1295' x='260'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Mapeamento
+                                    de Retina
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298146' enabled='true' selected='false' toolTip='Metadado_151_55' tabIndex='93'
+                          key='Metadado_151_55' y='1315' x='240'/>
+                <LABEL height='20' width='160' y='1315' x='260'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>
+                                    Retinografia / Angiofluor (VE)
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298147' enabled='true' selected='false' toolTip='Metadado_151_56' tabIndex='94'
+                          key='Metadado_151_56' y='1335' x='240'/>
+                <LABEL height='20' width='107' y='1335' x='260'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>
+                                    Fluoresceina Sodica
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <TEXT enabled='true' borderStyle='solid' backgroundColor='16514043' toolTip='Metadado_152_19'
+                      useTemplateText='false' maxChars='30' width='100' tabIndex='95' fontStyle='normal' fontSize='12'
+                      restrict='^' editable='true' id='298148' fontWeight='normal' height='22' textDecoration='none'
+                      color='0' fontFamily='Verdana' key='Metadado_152_19' y='1355' x='270'/>
+                <LABEL height='20' width='35' y='1355' x='235'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Lote:
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <DATE enabled='true' borderStyle='inset' backgroundColor='undefined' toolTip='Metadado_156_1' width='98'
+                      tabIndex='96' fontStyle='normal' fontSize='10' id='298149' fontWeight='normal' height='22'
+                      textDecoration='none' color='0' fontFamily='Verdana' key='Metadado_156_1' y='1380' x='290'/>
+                <LABEL height='20' width='55' y='1380' x='235'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Validade:
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='20' width='141' y='1210' x='465'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='12' FACE='Verdana'>
+                                    <B>Proxima Consulta</B>
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='20' width='50' y='1245' x='465'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Retorno:
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <GROUP height='90' width='185' y='1225' x='560'>
+                    <RADIOBUTTON id='298150' enabled='true' selected='false' toolTip='Metadado_154_19' tabIndex='97'
+                                 key='Metadado_154_19' y='10' x='10'/>
+                    <LABEL height='20' width='64' y='10' x='30'>
+                        <htmlText>
+                            <TEXTFORMAT LEADING='2'>
+                                <P ALIGN='LEFT'>
+                                    <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>
+                                        Urgencia
+                                    </FONT>
+                                </P>
+                            </TEXTFORMAT>
+                        </htmlText>
+                    </LABEL>
+                    <RADIOBUTTON id='298151' enabled='true' selected='false' toolTip='Metadado_154_20' tabIndex='98'
+                                 key='Metadado_154_20' y='30' x='10'/>
+                    <LABEL height='20' width='102' y='30' x='30'>
+                        <htmlText>
+                            <TEXTFORMAT LEADING='2'>
+                                <P ALIGN='LEFT'>
+                                    <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Medico
+                                        de Origem
+                                    </FONT>
+                                </P>
+                            </TEXTFORMAT>
+                        </htmlText>
+                    </LABEL>
+                    <RADIOBUTTON id='298152' enabled='true' selected='false' toolTip='Metadado_154_21' tabIndex='99'
+                                 key='Metadado_154_21' y='50' x='10'/>
+                    <LABEL height='20' width='115' y='48' x='30'>
+                        <htmlText>
+                            <TEXTFORMAT LEADING='2'>
+                                <P ALIGN='LEFT'>
+                                    <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>Vai
+                                        ligar para marcar
+                                    </FONT>
+                                </P>
+                            </TEXTFORMAT>
+                        </htmlText>
+                    </LABEL>
+                    <RADIOBUTTON id='298153' enabled='true' selected='false' toolTip='Metadado_154_22' tabIndex='100'
+                                 key='Metadado_154_22' y='70' x='10'/>
+                    <LABEL height='20' width='158' y='70' x='30'>
+                        <htmlText>
+                            <TEXTFORMAT LEADING='2'>
+                                <P ALIGN='LEFT'>
+                                    <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>De
+                                        acordo com a necessidade
+                                    </FONT>
+                                </P>
+                            </TEXTFORMAT>
+                        </htmlText>
+                    </LABEL>
+                </GROUP>
+                <CHECKBOX id='298137' enabled='true' selected='false' toolTip='Metadado_151_46' tabIndex='84'
+                          key='Metadado_151_46' y='1115' x='240'/>
+                <CHECKBOX id='298138' enabled='true' selected='false' toolTip='Metadado_151_47' tabIndex='85'
+                          key='Metadado_151_47' y='1135' x='240'/>
+                <CHECKBOX id='298139' enabled='true' selected='false' toolTip='Metadado_151_48' tabIndex='86'
+                          key='Metadado_151_48' y='1155' x='240'/>
+                <IMAGE id='298154' height='90' toolTip='Metadado_205_1' width='90' key='Metadado_205_1' y='310'
+                       x='150'/>
+                <TEXTAREA enabled='true' borderStyle='solid' backgroundColor='16514043' toolTip='Metadado_226_1'
+                          maxChars='0' useTemplateText='false' width='735' tabIndex='101' fontStyle='normal'
+                          fontSize='12' editable='true' id='298155' fontWeight='normal' height='105'
+                          textDecoration='none' leading='2' color='0' textAlign='left' fontFamily='verdana'
+                          key='Metadado_226_1' y='955' x='15'/>
+                <IMAGE id='298156' height='95' toolTip='OlhoFrente' width='90' key='Metadado_205_2' y='310' x='440'/>
+                <MARCACAOIMAGEM id='298157' height='75' width='85' key='Metadado_204_2' y='315' x='550'/>
+                <LABEL height='25' width='30' y='295' x='240'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='12' FACE='Verdana'>
+                                    <B>OD</B>
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='25' width='30' y='295' x='525'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='12' FACE='Verdana'>
+                                    <B>OE</B>
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <RADIOBUTTON id='298090' enabled='true' selected='false' toolTip='Metadado_154_7' tabIndex='36'
+                             key='Metadado_154_7' y='550' x='650'/>
+                <RADIOBUTTON id='298091' enabled='true' selected='false' toolTip='Metadado_154_8' tabIndex='37'
+                             key='Metadado_154_8' y='550' x='695'/>
+                <RADIOBUTTON id='298092' enabled='true' selected='false' toolTip='Metadado_154_9' tabIndex='38'
+                             key='Metadado_154_9' y='570' x='650'/>
+                <RADIOBUTTON id='298093' enabled='true' selected='false' toolTip='Metadado_154_10' tabIndex='39'
+                             key='Metadado_154_10' y='570' x='695'/>
+                <RADIOBUTTON id='298094' enabled='true' selected='false' toolTip='Metadado_154_11' tabIndex='40'
+                             key='Metadado_154_11' y='590' x='650'/>
+                <RADIOBUTTON id='298096' enabled='true' selected='false' toolTip='Metadado_154_13' tabIndex='42'
+                             key='Metadado_154_13' y='590' x='695'/>
+                <RADIOBUTTON id='298095' enabled='true' selected='false' toolTip='Metadado_154_12' tabIndex='41'
+                             key='Metadado_154_12' y='610' x='650'/>
+                <RADIOBUTTON id='298097' enabled='true' selected='false' toolTip='Metadado_154_14' tabIndex='43'
+                             key='Metadado_154_14' y='610' x='695'/>
+                <RADIOBUTTON id='298080' enabled='true' selected='false' toolTip='Metadado_154_1' tabIndex='25'
+                             key='Metadado_154_1' y='550' x='360'/>
+                <RADIOBUTTON id='298081' enabled='true' selected='false' toolTip='Metadado_154_2' tabIndex='26'
+                             key='Metadado_154_2' y='550' x='405'/>
+                <RADIOBUTTON id='298084' enabled='true' selected='false' toolTip='Metadado_154_4' tabIndex='29'
+                             key='Metadado_154_4' y='570' x='405'/>
+                <RADIOBUTTON id='298083' enabled='true' selected='false' toolTip='Metadado_154_3' tabIndex='28'
+                             key='Metadado_154_3' y='570' x='360'/>
+                <RADIOBUTTON id='298086' enabled='true' selected='false' toolTip='Metadado_154_5' tabIndex='31'
+                             key='Metadado_154_5' y='590' x='360'/>
+                <LABEL height='20' width='32' y='590' x='380'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OD</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <RADIOBUTTON id='298087' enabled='true' selected='false' toolTip='Metadado_154_6' tabIndex='32'
+                             key='Metadado_154_6' y='590' x='405'/>
+                <LABEL height='20' width='32' y='590' x='425'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OE</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <RADIOBUTTON id='298105' enabled='true' selected='false' toolTip='Metadado_154_15' tabIndex='51'
+                             key='Metadado_154_15' y='680' x='365'/>
+                <RADIOBUTTON id='298106' enabled='true' selected='false' toolTip='Metadado_154_16' tabIndex='52'
+                             key='Metadado_154_16' y='680' x='410'/>
+                <RADIOBUTTON id='298107' enabled='true' selected='false' toolTip='Metadado_154_17' tabIndex='53'
+                             key='Metadado_154_17' y='705' x='365'/>
+                <RADIOBUTTON id='298108' enabled='true' selected='false' toolTip='Metadado_154_18' tabIndex='54'
+                             key='Metadado_154_18' y='705' x='410'/>
+                <LABEL height='25' width='68' y='70' x='140'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='CENTER'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='14' FACE='Verdana'>Normal
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <MARCACAOIMAGEM id='298158' height='75' width='85' key='Metadado_204_4' y='315' x='260'/>
+                <TEXTAREA enabled='true' borderStyle='solid' backgroundColor='16514043' toolTip='Info' maxChars='0'
+                          useTemplateText='false' width='735' tabIndex='102' fontStyle='normal' fontSize='12'
+                          editable='true' id='298159' fontWeight='normal' height='120' textDecoration='none' leading='2'
+                          color='0' textAlign='left' fontFamily='verdana' key='Metadado_226_2' y='400' x='10'/>
+                <LABEL height='25' width='105' y='370' x='10'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='12' FACE='Verdana'>
+                                    <B>Observac?es:</B>
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <TEXT enabled='true' borderStyle='solid' backgroundColor='16514043' toolTip='Texto_30'
+                      useTemplateText='false' maxChars='30' width='100' tabIndex='103' fontStyle='normal' fontSize='12'
+                      restrict='^' editable='true' id='298160' fontWeight='normal' height='22' textDecoration='none'
+                      color='0' fontFamily='verdana' key='Metadado_152_20' y='1265' x='465'/>
+                <LABEL height='20' width='107' y='1285' x='465'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>( H / D / S
+                                    / M / A )
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <HRULE height='1' lineColor='0' width='730' lineThickness='1' y='1105' x='10'/>
+                <HRULE height='1' lineColor='0' width='730' lineThickness='1' y='670' x='15'/>
+                <LABEL height='25' width='155' y='5' x='10'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='14' FACE='Verdana'>
+                                    <B>Evoluc?o Clinica</B>
+                                </FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <HRULE height='2' lineColor='0' width='730' lineThickness='2' y='30' x='10'/>
+                <HRULE height='2' lineColor='0' width='730' lineThickness='1' y='275' x='10'/>
+                <LABEL height='20' width='19' y='730' x='653'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OD</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <LABEL height='20' width='19' y='730' x='690'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>OE</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+                <CHECKBOX id='298161' enabled='true' selected='false' toolTip='Checagem' tabIndex='105'
+                          key='Metadado_151_57' y='750' x='655'/>
+                <CHECKBOX id='298162' enabled='true' selected='false' toolTip='Checagem' tabIndex='106'
+                          key='Metadado_151_58' y='750' x='695'/>
+                <CHECKBOX id='298163' enabled='true' selected='false' toolTip='Checagem' tabIndex='107'
+                          key='Metadado_151_59' y='770' x='655'/>
+                <CHECKBOX id='298164' enabled='true' selected='false' toolTip='Checagem' tabIndex='108'
+                          key='Metadado_151_60' y='770' x='695'/>
+                <CHECKBOX id='298165' enabled='true' selected='false' toolTip='Checagem' tabIndex='109'
+                          key='Metadado_151_61' y='790' x='655'/>
+                <CHECKBOX id='298166' enabled='true' selected='false' toolTip='Checagem' tabIndex='110'
+                          key='Metadado_151_62' y='790' x='695'/>
+                <CHECKBOX id='298167' enabled='true' selected='false' toolTip='Checagem' tabIndex='111'
+                          key='Metadado_151_63' y='810' x='655'/>
+                <CHECKBOX id='298168' enabled='true' selected='false' toolTip='Checagem' tabIndex='112'
+                          key='Metadado_151_64' y='810' x='695'/>
+                <CHECKBOX id='298169' enabled='true' selected='false' toolTip='Checagem' tabIndex='113'
+                          key='Metadado_151_65' y='830' x='655'/>
+                <CHECKBOX id='298170' enabled='true' selected='false' toolTip='Checagem' tabIndex='114'
+                          key='Metadado_151_66' y='830' x='695'/>
+                <CHECKBOX id='298171' enabled='true' selected='false' toolTip='Checagem' tabIndex='115'
+                          key='Metadado_151_67' y='855' x='655'/>
+                <CHECKBOX id='298172' enabled='true' selected='false' toolTip='Checagem' tabIndex='116'
+                          key='Metadado_151_68' y='855' x='695'/>
+                <CHECKBOX id='298173' enabled='true' selected='false' toolTip='Checagem' tabIndex='117'
+                          key='Metadado_151_69' y='1235' x='240'/>
+                <TEXT enabled='true' borderStyle='solid' backgroundColor='16514043' toolTip='Texto_100'
+                      useTemplateText='false' maxChars='100' width='505' tabIndex='50' fontStyle='normal' fontSize='12'
+                      restrict='^' editable='true' id='298058' fontWeight='normal' height='22' textDecoration='none'
+                      color='0' fontFamily='Verdana' key='Metadado_152_1' y='95' x='235'/>
+                <LABEL height='20' width='119' y='1235' x='260'>
+                    <htmlText>
+                        <TEXTFORMAT LEADING='2'>
+                            <P ALIGN='LEFT'>
+                                <FONT LETTERSPACING='0' COLOR='#000000' KERNING='0' SIZE='10' FACE='Verdana'>YAG</FONT>
+                            </P>
+                        </TEXTFORMAT>
+                    </htmlText>
+                </LABEL>
+            </Column>
+        </Row>
+    </Page>
+</Application>
